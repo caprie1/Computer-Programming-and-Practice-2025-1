@@ -2,3 +2,8 @@
 Computer-Programming-and-Practice-2025-1.vcxproj.user
 Computer.56298b6a/x64/Debug/Computer-Programming-and-Practice-2025-1.exe.recipe
 Computer.56298b6a/x64/Debug/Computer-Programming-and-Practice-2025-1.ilk
+*.log
+*.tlog
+*.idb
+*.obj
+*.pdb
